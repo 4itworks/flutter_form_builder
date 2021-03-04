@@ -1,3 +1,6 @@
+##  [4.2.0+1] - 4-Mar-2021
+* Added support for `intl: 0.17.0` overriding deps from inner packages
+
 ## [4.2.0] - 29-Dec-2020
 * Added support for Slovak (sk) - @AdamA
 
